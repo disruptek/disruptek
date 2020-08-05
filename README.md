@@ -1,5 +1,3 @@
-## disruptek
-
 I guess the pinned stuff will be projects I'm relatively active on right now,
 while the other stuff just might be more interesting to you...
 
