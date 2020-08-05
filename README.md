@@ -1,4 +1,9 @@
-### Hi there 👋
+## disruptek
+
+I guess the pinned stuff will be projects I'm relatively active on right now,
+while the other stuff just might be more interesting to you...
+
+### [My Nim Projects](https://github.com/search?q=language%3Anim+user%3Adisruptek&type=Repositories)
 
 <!--
 **disruptek/disruptek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
