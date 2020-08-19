@@ -1,19 +1,17 @@
-I guess the pinned stuff will be projects I'm relatively active on right now,
-while the other stuff just might be more interesting to you...
+1. I'm unemployed.
+1. I'm dead broke.
+1. Please hire me.
 
-### [My Nim Projects](https://github.com/search?q=language%3Anim+user%3Adisruptek&type=Repositories)
+## Answers to Questions I Wish You'd Ask
 
-<!--
-**disruptek/disruptek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a US resident authorized to work in the US.
+- I have a US passport and a Colorado driver's license.
+- I can lift 50lb. without filing worker's comp.
+- I can communicate without using text messages.
+- I can manage others or work independently.
+- I live in a box on wheels and can relocate nationwide.
+- I don't have any felony convictions _as of 2020-08-19_. 😁
 
-Here are some ideas to get you started:
+### [My Recent Nim Projects](https://github.com/search?o=desc&q=language%3Anim+user%3Adisruptek&s=updated&type=Repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've pinned the stuff I've written that other people are interested in.
