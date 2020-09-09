@@ -3,7 +3,7 @@
 | |**incremental compilation**: automatic caching of toplevel statements|
 | |[**mangling**: nicer names for Nim backend codegen symbols](https://github.com/nim-lang/Nim/pull/14632)|
 | [![cps](https://github.com/disruptek/cps/workflows/CI/badge.svg)](https://github.com/disruptek/cps/actions?query=workflow%3ACI)|[**cps**: rewrites your code in continuation-passing style](https://github.com/disruptek/cps)|
-| ![nimph](https://img.shields.io/travis/disruptek/nimph)(https://travis-ci.org/disruptek/nimph)|[**nimph**: sophisticated git-centric package manager](https://github.com/disruptek/nimph)|
+| ![nimph](https://img.shields.io/travis/disruptek/nimph)|[**nimph**: sophisticated git-centric package manager](https://github.com/disruptek/nimph)|
 | [![jason](https://github.com/disruptek/jason/workflows/CI/badge.svg)](https://github.com/disruptek/jason/actions?query=workflow%3ACI)|[**jason**: _mostly_ compile-time JSON encoding](https://github.com/disruptek/jason)|
 | [![gram](https://github.com/disruptek/gram/workflows/CI/badge.svg)](https://github.com/disruptek/gram/actions?query=workflow%3ACI)|[**gram**: simple in-memory graph database](https://github.com/disruptek/gram)|
 | [![testes](https://github.com/disruptek/testes/workflows/CI/badge.svg)](https://github.com/disruptek/testes/actions?query=workflow%3ACI)|[**testes**: audacious package quality measurement](https://github.com/disruptek/testes)|
