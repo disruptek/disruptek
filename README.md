@@ -20,14 +20,18 @@
 | |[**gcplat**: native Google Cloud Platform APIs](https://github.com/disruptek/gcplat)|
 | |[**bluu**: native Microsoft Azure APIs](https://github.com/disruptek/bluu)|
 | |[**github**: native GitHub APIs](https://github.com/disruptek/github)|
+| |[**gully**: code comment formatter with lofty ambitions](https://github.com/disruptek/gully)|
 | |[**swayipc**: wayland compositor control via i3ipc](https://github.com/disruptek/swayipc)|
 | |[**lunacy**: native bridge to Lua virtual machine](https://github.com/disruptek/lunacy)|
 | |[**pulseauto**: control pulseaudio streams via app properties](https://github.com/disruptek/pulseauto)|
-| |[**gully**: code comment formatter with lofty ambitions](https://github.com/disruptek/gully)|
 | |[**obsdbus**: plugin for OBS to provide a DBUS interface](https://github.com/disruptek/obsdbus)|
 | |[**foreach**: sugary macro for validating loop variables](https://github.com/disruptek/foreach)|
 | |[**deebus**: simple sugar over the dbus module](https://github.com/disruptek/deebus)|
 | |[**forecast**: fairly crude but useful darksky API](https://github.com/disruptek/forecast)|
+| |[**wet**: command-line demonstration of forecast lib](https://github.com/disruptek/wet)|
+| |[**datamuse**: library and query tool for datamuse API](https://github.com/disruptek/datamuse)|
+| |[**meow**: wrapper for Casey Muratori's meow hash](https://github.com/disruptek/meow)|
+| |[**xs**: collection of small desktop apps and tools](https://github.com/disruptek/meow)|
 
 ## Missed Connection
 <details>
