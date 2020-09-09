@@ -59,7 +59,7 @@ _happy ending left as an exercise for the reader_
 - I live in a box on wheels and can relocate nationwide.
 - I don't have any felony convictions _as of 2020-08-19_. 😁
 
-## Current Projects
+## Project Dashboard
 
 |CI|Description|
 |--|-----------|
@@ -67,5 +67,5 @@ _happy ending left as an exercise for the reader_
 | [![jason](https://github.com/disruptek/jason/workflows/CI/badge.svg)](https://github.com/disruptek/jason/actions?query=workflow%3ACI)|[**jason** is a _mostly_ compile-time JSON encoder](https://github.com/disruptek/jason)|
 | [![gram](https://github.com/disruptek/gram/workflows/CI/badge.svg)](https://github.com/disruptek/gram/actions?query=workflow%3ACI)|[**gram** is a simple in-memory graph database](https://github.com/disruptek/gram)|
 | [![testes](https://github.com/disruptek/testes/workflows/CI/badge.svg)](https://github.com/disruptek/testes/actions?query=workflow%3ACI)|[**testes** is another take on unit tests](https://github.com/disruptek/testes)|
-| [![frosty](https://github.com/disruptek/frosty/workflows/CI/badge.svg)](https://github.com/disruptek/frosty/actions?query=workflow%3ACI)|[**frosty** is another take on unit tests](https://github.com/disruptek/frosty)|
+| [![frosty](https://github.com/disruptek/frosty/workflows/CI/badge.svg)](https://github.com/disruptek/frosty/actions?query=workflow%3ACI)|[**frosty** is a binary serializer for native types](https://github.com/disruptek/frosty)|
 | [![skiplists](https://github.com/disruptek/skiplists/workflows/CI/badge.svg)](https://github.com/disruptek/skiplists/actions?query=workflow%3ACI)|[**skiplists** is a probabilistic data-structure for concurrency](https://github.com/disruptek/skiplists)|
