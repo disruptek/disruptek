@@ -31,7 +31,7 @@
 | |[**wet**: command-line demonstration of forecast lib](https://github.com/disruptek/wet)|
 | |[**datamuse**: library and query tool for datamuse API](https://github.com/disruptek/datamuse)|
 | |[**meow**: wrapper for Casey Muratori's meow hash](https://github.com/disruptek/meow)|
-| |[**xs**: collection of small desktop apps and tools](https://github.com/disruptek/meow)|
+| |[**xs**: collection of small desktop apps and tools](https://github.com/disruptek/xs)|
 
 ## Missed Connection
 <details>
