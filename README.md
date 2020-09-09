@@ -61,6 +61,8 @@ _happy ending left as an exercise for the reader_
 
 ## Current Projects
 
+|CI|Description|
+|--|-----------|
 | [![cps](https://github.com/disruptek/cps/workflows/CI/badge.svg)](https://github.com/disruptek/cps/actions?query=workflow%3ACI)|[**cps** rewrites your code in continuation-passing style](https://github.com/disruptek/cps)|
 | [![jason](https://github.com/disruptek/jason/workflows/CI/badge.svg)](https://github.com/disruptek/jason/actions?query=workflow%3ACI)[**jason** is a _mostly_ compile-time JSON encoder](https://github.com/disruptek/jason)|
 | [![gram](https://github.com/disruptek/gram/workflows/CI/badge.svg)](https://github.com/disruptek/gram/actions?query=workflow%3ACI)|[**gram** is a simple in-memory graph database](https://github.com/disruptek/gram)|
