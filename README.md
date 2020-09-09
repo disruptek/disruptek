@@ -6,7 +6,7 @@
 | ![nimph](https://img.shields.io/travis/disruptek/nimph)|[**nimph**: sophisticated git-centric package manager](https://github.com/disruptek/nimph)|
 | [![jason](https://github.com/disruptek/jason/workflows/CI/badge.svg)](https://github.com/disruptek/jason/actions?query=workflow%3ACI)|[**jason**: _mostly_ compile-time JSON encoding](https://github.com/disruptek/jason)|
 | [![gram](https://github.com/disruptek/gram/workflows/CI/badge.svg)](https://github.com/disruptek/gram/actions?query=workflow%3ACI)|[**gram**: simple in-memory graph database](https://github.com/disruptek/gram)|
-| [![testes](https://github.com/disruptek/testes/workflows/CI/badge.svg)](https://github.com/disruptek/testes/actions?query=workflow%3ACI)|[**testes**: audacious package quality measurement](https://github.com/disruptek/testes)|
+| [![testes](https://github.com/disruptek/testes/workflows/CI/badge.svg)](https://github.com/disruptek/testes/actions?query=workflow%3ACI)|[**testes**: package measurement and unit testing](https://github.com/disruptek/testes)|
 | [![frosty](https://github.com/disruptek/frosty/workflows/CI/badge.svg)](https://github.com/disruptek/frosty/actions?query=workflow%3ACI)|[**frosty**: binary serialization for native types](https://github.com/disruptek/frosty)|
 | [![skiplists](https://github.com/disruptek/skiplists/workflows/CI/badge.svg)](https://github.com/disruptek/skiplists/actions?query=workflow%3ACI)|[**skiplists**: probabilistic data-structures for concurrency](https://github.com/disruptek/skiplists)|
 | [gitnim.com](https://gitnim.com/)|[**gitnim**: like choosenim but open and git-native](https://github.com/disruptek/gitnim)|
