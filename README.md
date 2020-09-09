@@ -15,7 +15,7 @@
 | [![criterion](https://github.com/disruptek/criterion/workflows/CI/badge.svg)](https://github.com/disruptek/criterion/actions?query=workflow%3ACI)|[**criterion**: a clever statistical micro-benchmark](https://github.com/disruptek/criterion)|
 | |[**golden**: build, benchmark, and discover regressions](https://github.com/disruptek/golden)|
 | [![gittyup](https://github.com/disruptek/gittyup/workflows/CI/badge.svg)](https://github.com/disruptek/gittyup/actions?query=workflow%3ACI)|[**gittyup**: a high-level API for a low-level git library](https://github.com/disruptek/gittyup)|
-| |[**openapi**: turn any OpenApi/Swagger JSON into native APIs](https://github.com/disruptek/openapi)|
+| |[**openapi**: turn OpenApi/Swagger JSON into native APIs](https://github.com/disruptek/openapi)|
 | |[**atoz**: native Amazon Web Services APIs](https://github.com/disruptek/atoz)|
 | |[**gcplat**: native Google Cloud Platform APIs](https://github.com/disruptek/gcplat)|
 | |[**bluu**: native Microsoft Azure APIs](https://github.com/disruptek/bluu)|
