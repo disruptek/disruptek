@@ -1,7 +1,7 @@
 |  |Project Dashboard|
 |--|-----------|
 | |**incremental compilation**: automatic caching of toplevel statements|
-|![pr state](https://img.shields.io/github/pulls/detail/state/nim-lang/Nim/14632)|[**mangling**: nicer names for Nim backend codegen symbols](https://github.com/nim-lang/Nim/pull/14632)|
+|![pr state](https://img.shields.io/github/pulls/detail/state/nim-lang/Nim/14632?label=pr%2014632)|[**mangling**: nicer names for Nim backend codegen symbols](https://github.com/nim-lang/Nim/pull/14632)|
 | [![cps](https://github.com/disruptek/cps/workflows/CI/badge.svg)](https://github.com/disruptek/cps/actions?query=workflow%3ACI)|[**cps**: rewrites your code in continuation-passing style](https://github.com/disruptek/cps)|
 | ![nimph](https://img.shields.io/travis/disruptek/nimph)|[**nimph**: sophisticated git-centric package manager](https://github.com/disruptek/nimph)|
 | [![jason](https://github.com/disruptek/jason/workflows/CI/badge.svg)](https://github.com/disruptek/jason/actions?query=workflow%3ACI)|[**jason**: _mostly_ compile-time JSON encoding](https://github.com/disruptek/jason)|
