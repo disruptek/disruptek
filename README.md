@@ -1,4 +1,4 @@
-|  |Project Dashboard|
+|[![Twitch Status](https://img.shields.io/twitch/status/disruptek) |Project Dashboard](https://twitch.tv/disruptek)|
 |--|-----------|
 | |**incremental compilation**: automatic caching of toplevel statements|
 |[![pr state](https://img.shields.io/github/pulls/detail/state/nim-lang/Nim/14632?label=pr%2014632)](https://github.com/nim-lang/Nim/pull/14632)|[**mangling**: nicer names for Nim backend codegen symbols](https://github.com/nim-lang/Nim/pull/14632)|
