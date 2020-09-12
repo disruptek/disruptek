@@ -1,6 +1,6 @@
 |[![Twitch Status](https://img.shields.io/twitch/status/disruptek)](https://twitch.tv/disruptek) |Project Dashboard|
 |--|-----------|
-|[![ci](https://github.com/disruptek/Nim/workflows/Packages%20CI/badge.svg?branch=ice?label=wip)](https://github.com/disruptek/Nim/actions?query=workflow%3A%22Packages+CI%22)|[**incremental compilation**: automatic caching of toplevel statements](https://github.com/disruptek/Nim/tree/ice)|
+|[![ci](https://github.com/disruptek/Nim/workflows/Packages%20CI/badge.svg?branch=ice&label=wip)](https://github.com/disruptek/Nim/actions?query=workflow%3A%22Packages+CI%22)|[**incremental compilation**: automatic caching of toplevel statements](https://github.com/disruptek/Nim/tree/ice)|
 |[![pr state](https://img.shields.io/github/pulls/detail/state/nim-lang/Nim/14632?label=pr%2014632)](https://github.com/nim-lang/Nim/pull/14632)|[**mangling**: nicer names for Nim backend codegen symbols](https://github.com/nim-lang/Nim/pull/14632)|
 | [![cps](https://github.com/disruptek/cps/workflows/CI/badge.svg)](https://github.com/disruptek/cps/actions?query=workflow%3ACI)|[**cps**: rewrites your code in continuation-passing style](https://github.com/disruptek/cps)|
 | ![nimph](https://img.shields.io/travis/disruptek/nimph)|[**nimph**: sophisticated git-centric package manager](https://github.com/disruptek/nimph)|
