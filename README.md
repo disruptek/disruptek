@@ -14,7 +14,7 @@
 | [![bump](https://github.com/disruptek/bump/workflows/CI/badge.svg)](https://github.com/disruptek/bump/actions?query=workflow%3ACI)||[**bump**: a handy little tool to version and tag packages](https://github.com/disruptek/bump)|
 | [![criterion](https://github.com/disruptek/criterion/workflows/CI/badge.svg)](https://github.com/disruptek/criterion/actions?query=workflow%3ACI)||[**criterion**: a clever statistical micro-benchmark](https://github.com/disruptek/criterion)|
 | [![sigv4](https://github.com/disruptek/sigv4/workflows/CI/badge.svg)](https://github.com/disruptek/sigv4/actions?query=workflow%3ACI)||[**sigv4**: a tiny library implementing AWS Signing V4](https://github.com/disruptek/sigv4)|
-| |[**golden**: build, benchmark, and discover regressions](https://github.com/disruptek/golden)|
+| ||[**golden**: build, benchmark, and discover regressions](https://github.com/disruptek/golden)|
 | [![gittyup](https://github.com/disruptek/gittyup/workflows/CI/badge.svg)](https://github.com/disruptek/gittyup/actions?query=workflow%3ACI)||[**gittyup**: a high-level API for a low-level git library](https://github.com/disruptek/gittyup)|
 | |![prs](https://img.shields.io/github/issues-pr-raw/disruptek/openapi?label=pr)|[**openapi**: turn OpenApi/Swagger JSON into native APIs](https://github.com/disruptek/openapi)|
 | ||[**atoz**: native Amazon Web Services APIs](https://github.com/disruptek/atoz)|
