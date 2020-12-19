@@ -13,6 +13,7 @@
 |[![frosty](https://github.com/disruptek/frosty/workflows/CI/badge.svg)](https://github.com/disruptek/frosty/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/frosty?label=pr)|[**frosty**: binary serialization for native types](https://github.com/disruptek/frosty)|
 |[![gittyup](https://github.com/disruptek/gittyup/workflows/CI/badge.svg)](https://github.com/disruptek/gittyup/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/gittyup?label=pr)|[**gittyup**: a high-level API for a low-level git library](https://github.com/disruptek/gittyup)|
 |[![skiplists](https://github.com/disruptek/skiplists/workflows/CI/badge.svg)](https://github.com/disruptek/skiplists/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/skiplists?label=pr)|[**skiplists**: probabilistic data-structures for concurrency](https://github.com/disruptek/skiplists)|
+|[![badresults](https://github.com/disruptek/badresults/workflows/CI/badge.svg)](https://github.com/disruptek/badresults/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/badresults?label=pr)|[**badresults**: a less fascist fork of nim-result](https://github.com/disruptek/badresults)|
 |[gitnim.com](https://gitnim.com/)||[**gitnim**: like choosenim but open and git-native](https://github.com/disruptek/gitnim)|
 |||[**dust**: automagic minimization of compiler bugs](https://github.com/disruptek/dust)|
 |[![bump](https://github.com/disruptek/bump/workflows/CI/badge.svg)](https://github.com/disruptek/bump/actions?query=workflow%3ACI)||[**bump**: a handy little tool to version and tag packages](https://github.com/disruptek/bump)|
@@ -34,7 +35,6 @@
 |||[**deebus**: simple sugar over the dbus module](https://github.com/disruptek/deebus)|
 |||[**forecast**: fairly crude but useful darksky API](https://github.com/disruptek/forecast)|
 |||[**wet**: command-line demonstration of forecast lib](https://github.com/disruptek/wet)|
-|||[**badresults**: a less-draconian fork of nim-results](https://github.com/disruptek/badresults)|
 |||[**datamuse**: library and query tool for datamuse API](https://github.com/disruptek/datamuse)|
 |||[**meow**: wrapper for Casey Muratori's meow hash](https://github.com/disruptek/meow)|
 |||[**xs**: collection of small desktop apps and tools](https://github.com/disruptek/xs)|
