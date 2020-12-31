@@ -30,7 +30,7 @@
 |||[**bluu**: native Microsoft Azure APIs](https://github.com/disruptek/bluu)|
 |||[**github**: native GitHub APIs](https://github.com/disruptek/github)|
 |||[**gully**: code comment formatter with lofty ambitions](https://github.com/disruptek/gully)|
-|||[**swayipc**: wayland compositor control via i3ipc](https://github.com/disruptek/swayipc)|
+|[![swayipc](https://github.com/disruptek/swayipc/workflows/CI/badge.svg)](https://github.com/disruptek/swayipc/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/swayipc?label=pr)|[**swayipc**: wayland compositor control via i3ipc](https://github.com/disruptek/swayipc)|
 |||[**lunacy**: native bridge to Lua virtual machine](https://github.com/disruptek/lunacy)|
 |||[**pulseauto**: control pulseaudio streams via app properties](https://github.com/disruptek/pulseauto)|
 |||[**obsdbus**: plugin for OBS to provide a DBUS interface](https://github.com/disruptek/obsdbus)|
