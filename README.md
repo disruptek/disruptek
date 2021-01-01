@@ -1,5 +1,5 @@
 ----------
-[My Nim style guide might help guide your own style...](https://gist.github.com/disruptek/6d0cd6774d05adaa894db4deb646fc1d)
+[My Nim style guide might help guide your own style...](https://github.com/disruptek/style.md)
 ----------
 
 |[![Twitch Status](https://img.shields.io/twitch/status/disruptek)](https://twitch.tv/disruptek) ||Project Dashboard|
