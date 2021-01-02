@@ -31,8 +31,8 @@
 |||[**github**: native GitHub APIs](https://github.com/disruptek/github)|
 |||[**gully**: code comment formatter with lofty ambitions](https://github.com/disruptek/gully)|
 |[![swayipc](https://github.com/disruptek/swayipc/workflows/CI/badge.svg)](https://github.com/disruptek/swayipc/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/swayipc?label=pr)|[**swayipc**: wayland compositor control via i3ipc](https://github.com/disruptek/swayipc)|
+|[![pulseauto](https://github.com/disruptek/pulseauto/workflows/CI/badge.svg)](https://github.com/disruptek/pulseauto/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/pulseauto?label=pr)|[**pulseauto**: control pulseaudio streams via app properties](https://github.com/disruptek/pulseauto)|
 |||[**lunacy**: native bridge to Lua virtual machine](https://github.com/disruptek/lunacy)|
-|||[**pulseauto**: control pulseaudio streams via app properties](https://github.com/disruptek/pulseauto)|
 |||[**obsdbus**: plugin for OBS to provide a DBUS interface](https://github.com/disruptek/obsdbus)|
 |||[**foreach**: sugary macro for validating loop variables](https://github.com/disruptek/foreach)|
 |||[**deebus**: simple sugar over the dbus module](https://github.com/disruptek/deebus)|

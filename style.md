@@ -1,5 +1,36 @@
 Some evolving rationale for style decisions.
 
+# packaging
+
+- Do use a valid Nim identifier for your package name; this is loosely enforced by Nimble, but it's a rule nonetheless.
+- Don't use a name that starts with a Capital letter; that's just annoying.
+- Do use git in preference to other VCS; 99% of all packages use git and (for this reason) Nimph won't support anything else.
+- Do use tags as often as possible.
+- Do use https://semver.org/ to inform your tag names.
+- Don't use `v.1.2.3` as a tag; `1.2.3` is sufficient and easier to parse.
+- Don't use `v1.2.3` as a tag; `1.2.3` is sufficient and easier to parse.
+- Do use tags that aren't version numbers, like `foobar`, in preference to specifying a commit hashes.
+- Do use `bump` and `nimph tag` to keep your tags synchronized with your `.nimble` file.
+- Do make sure that your repository name matches your package name.
+- Don't use underscores unless they are truly helpful:
+  - `ast_pattern_matching` is a good choice
+  - `html_canvas` is clearly a mistake
+- Don't add `nim.cfg` files into your repository; these are conventionally expected to be replaced by the package manager in order to setup the local build environment.
+- Do add `project.nim.cfg` files to your repo -- these won't be touched by package managers and you can put special `--define` switches (or whatever) into these files.
+- Don't use `config.nims`; see the subsequent section...
+
+## NimScript
+
+- NimScript is a poor choice for build tooling; you cannot `getCurrentDir()` without shelling out... C'mon, man, be serious.
+- It's slow to run, every time it runs, and it usually runs more often than
+your project.
+- It turns your configuration from static into dynamic, which requires that
+anything that depends upon your configuration (like, say, a package manager)
+must evaluate your configuration, which means it slows down any package
+management operations performed on anything that requires your package.
+- Worst of all, it imposes a limited subset of Nim on the user; a dialect that you have to debug using different assumptions and expertise.  Just, no.
+- If you need dynamic build-time behavior, write a Nim program, compile it, and run it.  You may be surprised at how much better an experience this is.
+
 # `continue` and other forms of "early return"
 - It's lazy control-flow.  Do not use it.
 - Prefer "dominating" conditionals that allow the structure of the code to expose control-flow.
@@ -8,14 +39,14 @@ Some evolving rationale for style decisions.
 
 ## uses of `continue` that aren't too smelly 
 ```nim
-case $NimMajor & "." & $NimMinor            
-of "1.2":                         
+case $NimMajor & "." & $NimMinor
+of "1.2":
   if gc > arc:
     continue     # arc arrived in 1.2; ignore anything later
-of "1.4":                         
-  if gc > orc:   # orc arrived in 1.4; ignore anything later                 
-    continue                      
-else:                             
+of "1.4":
+  if gc > orc:   # orc arrived in 1.4; ignore anything later
+    continue
+else:
   discard
 quit "i expected this to work on " & $gc
 ```
