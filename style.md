@@ -3,6 +3,7 @@ Some evolving rationale for style decisions.
 # packaging
 
 - Do use a valid Nim identifier for your package name; this is loosely enforced by Nimble, but it's a rule nonetheless.
+- Don't use `.nim` or `nim-` or `nim` in your package name; we all know it's nim, that's why we're here -- use keywords if you want to influence search results.
 - Don't use a name that starts with a Capital letter; that's just annoying.
 - Do use git in preference to other VCS; 99% of all packages use git and (for this reason) Nimph won't support anything else.
 - Do use tags as often as possible.
