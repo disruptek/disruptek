@@ -19,6 +19,7 @@ Some evolving rationale for style decisions.
 - Don't add `nim.cfg` files into your repository; these are conventionally expected to be replaced by the package manager in order to setup the local build environment.
 - Do add `project.nim.cfg` files to your repo -- these won't be touched by package managers and you can put special `--define` switches (or whatever) into these files.
 - Don't use `config.nims`; see the subsequent section...
+- Do include your dependencies for your tests in your `.nimble` requirements.
 
 ## NimScript
 
