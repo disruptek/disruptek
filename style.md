@@ -35,7 +35,7 @@ management operations performed on anything that requires your package.
 
 # `continue` and other forms of "early return"
 - It's lazy control-flow.  Do not use it.
-- Prefer "dominating" conditionals that allow the structure of the code to expose control-flow.
+- Prefer "dominating" conditionals that allow the structure of the code to highlight control-flow.
 - A very early `return` is preferable to an `else:` clause that dominates the remainder of the `proc` body.
 - Set the `result` later for observability reasons.
 
@@ -55,21 +55,24 @@ quit "i expected this to work on " & $gc
 
 # `result` and `return`
 - Omit `result =` for any single-statement body; it's noise.
-- Use `return` with an argument when the `proc` has a return type; it's more explicit.
+- Use `return` with an argument when the `proc` has a return type and you are making an early return; it's more explicit.
 - Use `result` over `return` unless using `result` would make you look like an asshole; `result` allows for later changes to the `proc` without necessitating control-flow changes to older code.
 
 ```nim
 proc foo(x: ref Bar): Bar =
   if x.isNil:
-    return nil
+    # very early returns read well
+    return nil   # be explicit with return value
   x.bif = true
   # ...
+  # setting result later also helps refactoring
   result = x
 ```
 
 # super-dominating conditionals
 
-I find the former easier to read (and modify) than the latter.  This will be controversial, but you are entitled to disagree. :wink:
+I find the former easier to read (and modify) than the latter. This will be
+controversial, but you are entitled to disagree. :wink:
 
 ## Do
 ```nim
