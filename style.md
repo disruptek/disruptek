@@ -102,6 +102,12 @@ let (x, y) = (80, 25)
 - Do use exceptions without regard to performance; `--exceptions:goto` is the default for ARC/ORC and it's fast.
 - Use `try` *expressions* only without an `except` clause.
 
+```nim
+# elegant syntax for longer exception messages
+raise Defect.newException:
+  &"it's bad because x={xAxisValue} and y={yAxisValue}"
+```
+
 # miscellaneous
 
 - Don't specify `void` as a return-type; just omit a return-type.
