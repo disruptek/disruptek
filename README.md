@@ -32,6 +32,7 @@
 |||[**gcplat**: native Google Cloud Platform APIs](https://github.com/disruptek/gcplat)|
 |||[**bluu**: native Microsoft Azure APIs](https://github.com/disruptek/bluu)|
 |||[**github**: native GitHub APIs](https://github.com/disruptek/github)|
+|[![cutelog](https://github.com/disruptek/cutelog/workflows/CI/badge.svg)](https://github.com/disruptek/cutelog/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/cutelog?label=pr)|[**cutelog**: simple logging replacement to annoy Zevv](https://github.com/disruptek/cutelog)|
 |||[**gully**: code comment formatter with lofty ambitions](https://github.com/disruptek/gully)|
 |[![swayipc](https://github.com/disruptek/swayipc/workflows/CI/badge.svg)](https://github.com/disruptek/swayipc/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/swayipc?label=pr)|[**swayipc**: wayland compositor control via i3ipc](https://github.com/disruptek/swayipc)|
 |[![pulseauto](https://github.com/disruptek/pulseauto/workflows/CI/badge.svg)](https://github.com/disruptek/pulseauto/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/pulseauto?label=pr)|[**pulseauto**: control pulseaudio streams via app properties](https://github.com/disruptek/pulseauto)|
