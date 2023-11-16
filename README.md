@@ -1,7 +1,3 @@
-----------
-[My Nim style guide might help guide your own style...](https://github.com/disruptek/disruptek/blob/master/style.md)
-----------
-
 |[![Twitch Status](https://img.shields.io/twitch/status/disruptek)](https://twitch.tv/disruptek) ||Project Dashboard|
 |--|--|-----------|
 |[![cps](https://github.com/nim-works/cps/workflows/CI/badge.svg)](https://github.com/nim-works/cps/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/nim-works/cps?label=pr)|[**cps**: rewrites your code in continuation-passing style](https://github.com/nim-works/cps)|
