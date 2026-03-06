@@ -20,7 +20,10 @@
 |||[**bluu**: native Microsoft Azure APIs](https://github.com/disruptek/bluu)|
 |||[**github**: native GitHub APIs](https://github.com/disruptek/github)|
 |[![nimskull](https://github.com/nim-works/nimskull/actions/workflows/publisher.yml/badge.svg?branch=devel)](https://github.com/nim-works/nimskull/actions/workflows/publisher.yml)|[![prs](https://img.shields.io/github/issues-pr-raw/nim-works/nimskull?label=pr)](https://github.com/nim-works/nimskull/pulls)|[**nimskull**: working nim compiler](https://github.com/nim-works/nimskull)|
-|<details><summary>**old stuff mostly written in Nim...**</summary>||
+
+<details><summary>**old stuff mostly written in Nim...**</summary>
+|||
+|--|--|--|
 |[![criterion](https://github.com/disruptek/criterion/workflows/CI/badge.svg)](https://github.com/disruptek/criterion/actions?query=workflow%3ACI)||[**criterion**: a clever statistical micro-benchmark](https://github.com/disruptek/criterion)|
 |[![semaphores](https://github.com/disruptek/semaphores/workflows/CI/badge.svg)](https://github.com/disruptek/semaphores/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/semaphores?label=pr)|[**semaphores**: a simple concurrency primitive for counting](https://github.com/disruptek/semaphores)|
 |[![badresults](https://github.com/disruptek/badresults/workflows/CI/badge.svg)](https://github.com/disruptek/badresults/actions?query=workflow%3ACI)|![prs](https://img.shields.io/github/issues-pr-raw/disruptek/badresults?label=pr)|[**badresults**: a less fascist fork of nim-result](https://github.com/disruptek/badresults)|
@@ -60,4 +63,5 @@
 |||[**datamuse**: library and query tool for datamuse API](https://github.com/disruptek/datamuse)|
 |||[**meow**: wrapper for Casey Muratori's meow hash](https://github.com/disruptek/meow)|
 |||[**xs**: collection of small desktop apps and tools](https://github.com/disruptek/xs)|
-|</details>||
+
+</details>
