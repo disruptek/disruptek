@@ -21,7 +21,7 @@
 |||[**github**: native GitHub APIs](https://github.com/disruptek/github)|
 |[![nimskull](https://github.com/nim-works/nimskull/actions/workflows/publisher.yml/badge.svg?branch=devel)](https://github.com/nim-works/nimskull/actions/workflows/publisher.yml)|[![prs](https://img.shields.io/github/issues-pr-raw/nim-works/nimskull?label=pr)](https://github.com/nim-works/nimskull/pulls)|[**nimskull**: working nim compiler](https://github.com/nim-works/nimskull)|
 
-<details><summary>**old stuff mostly written in Nim...**</summary>
+<details><summary>more stuff mostly written in Nim...</summary>
 |||
 |--|--|--|
 |[![criterion](https://github.com/disruptek/criterion/workflows/CI/badge.svg)](https://github.com/disruptek/criterion/actions?query=workflow%3ACI)||[**criterion**: a clever statistical micro-benchmark](https://github.com/disruptek/criterion)|
